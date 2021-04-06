@@ -15,6 +15,9 @@
 ![4b](https://user-images.githubusercontent.com/56240533/113553692-54c23400-9622-11eb-9836-50ebbac21e0a.png)
 5. setelah itu tambahkan style css pada id selector dan class selector pada eksternal.
 ![5](https://user-images.githubusercontent.com/56240533/113553701-57bd2480-9622-11eb-8d31-e06cc479861c.png)
+6. berikut adalah hasil percobaan css validasinya
+![ss css](https://user-images.githubusercontent.com/56240533/113724062-2c1e6500-971c-11eb-8938-acc4ccf6bc37.png)
+
 
 Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS 
